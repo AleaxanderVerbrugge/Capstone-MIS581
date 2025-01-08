@@ -2,7 +2,7 @@
 
 # Project Overview
 -This repository contains the code, documentation, and findings for my Capstone Project. This project uses past data collected to analyze the different payment type methods to see if it can be used to predict if a transactaction would fail.
-=-t uses anothre data set to see if  the number of payments could indicate a risk of fraud
+-It uses another dataset to see if the number of payments could indicate a risk of fraud occuring. 
 
 # Data
 Customer DF Dataset
